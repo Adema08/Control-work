@@ -23,5 +23,5 @@ for(int i = 0; i < array.Length; i++) {
         num++;
     }
 }
-
+Console.Write('[' + string.Join(", ", newArray) + ']');
 
