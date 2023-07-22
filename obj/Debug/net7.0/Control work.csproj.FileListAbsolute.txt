@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.AssemblyInfo.cs
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Я богатый разработчик\Control work\bin\Debug\net7.0\Control work.exe
+C:\Users\User\Desktop\Я богатый разработчик\Control work\bin\Debug\net7.0\Control work.deps.json
+C:\Users\User\Desktop\Я богатый разработчик\Control work\bin\Debug\net7.0\Control work.runtimeconfig.json
+C:\Users\User\Desktop\Я богатый разработчик\Control work\bin\Debug\net7.0\Control work.dll
+C:\Users\User\Desktop\Я богатый разработчик\Control work\bin\Debug\net7.0\Control work.pdb
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.dll
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\refint\Control work.dll
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.pdb
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\Control work.genruntimeconfig.cache
+C:\Users\User\Desktop\Я богатый разработчик\Control work\obj\Debug\net7.0\ref\Control work.dll
