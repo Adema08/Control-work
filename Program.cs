@@ -10,9 +10,17 @@
 
 string[] array = {"-2", "523", "blue", "sky", "-12"};
 int count = 0;
+int num = 0;
 for(int i = 0; i < array.Length; i++) {
     if (array[i].Length <= 3) {
         count++;
+    }
+}
+string[] newArray = new string[count];
+for(int i = 0; i < array.Length; i++) {
+    if (array[i].Length <= 3) {
+        newArray[num] = array[i];
+        num++;
     }
 }
 
